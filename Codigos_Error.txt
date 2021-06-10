@@ -1,0 +1,15 @@
+Codigo Error = 1: Se definio dos vece .data
+Codigo Error = 2: Se definio dos vece .text
+Codigo Error = 3: instrucciones repetidas
+Codigo Error = 4: Error de sintaxis
+Codigo Error = 5: El valor no puede almacenarse en k = + str(k) 
+Codigo Error = 6: La etiqueta ya se incializo
+Codigo Error = 7: No hay suficiente memoria para reservar una palabra
+Codigo Error = 8: No hay suficiente memoria para reservar un byte 
+Codigo Error = 9: No hay suficiente memoria para reservar una media palabra
+Codigo Error = 10: No se puede acceder a esos registro  
+Codigo Error = 11: La etiqueta no existe 
+Codigo Error = 12: El valor del registro no es valido
+Codigo Error = 13: El valor del offset no es valido
+Codigo Error = 14: El valor contenido en el tercer registro no es valido
+Codigo Error = 15: Debe introducir dos registros iguales
